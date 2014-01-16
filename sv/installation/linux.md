@@ -1,4 +1,5 @@
 ---
+lang: sv
 layout: installation
 meta_title: Hur du installerar av Ghost på din server - Ghost Docs
 meta_description: Allt du behöver veta för att för att få igång Ghost i din lokala eller fjärranslutna miljö.
@@ -19,7 +20,7 @@ next_section: deploy
 *   Ladda ner `.tar.gz`-arkivet från [http://nodejs.org](http://nodejs.org), eller följ instruktionerna för att [installera med hjälp av en pakethanterare](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
 *   Kontrollera att Node och npm är installerade genom att skriva `node -v` och `npm -v` i ett terminalfönster.
 
-### Installera och starta Ghost
+### Installera och kör Ghost
 
 
 **Om du använder Linux på din dator, följ de här stegen:**
