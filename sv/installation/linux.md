@@ -1,7 +1,7 @@
 ---
 lang: sv
 layout: installation
-meta_title: Hur du installerar av Ghost på din server - Ghost Docs
+meta_title: Hur du installerar Ghost på din server - Ghost Docs
 meta_description: Allt du behöver veta för att för att få igång Ghost i din lokala eller fjärranslutna miljö.
 heading: Installation och start av Ghost
 subheading: De första stegen mot att starta din nya blogg för första gången.

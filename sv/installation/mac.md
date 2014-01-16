@@ -1,7 +1,7 @@
 ---
 lang: sv
 layout: installation
-meta_title: Hur du installerar av Ghost på din server - Ghost Docs
+meta_title: Hur du installerar Ghost på din server - Ghost Docs
 meta_description: Allt du behöver veta för att för att få igång Ghost i din lokala eller fjärranslutna miljö.
 heading: Installation och start av Ghost
 subheading: De första stegen mot att starta din nya blogg för första gången.
@@ -39,7 +39,7 @@ Om du fastnar kan du se [hela processen här](https://s3-eu-west-1.amazonaws.com
 *   När npm slutfört installationen, skriv `npm start` för att starta Ghost i utvecklarläge.
 *   I en webbläsare, navigera till [http://127.0.0.1:2368](http://127.0.0.1:2368) för att se din nyinstallerade Ghost-blogg.
 *   Byt sökväg till [http://127.0.0.1:2368/ghost](http://127.0.0.1:2368/ghost) och skapa ditt administratörskonto för att logga in på Ghosts administratörsverktyg.
-*   Se [avnvändarhandboken](/usage) för instruktioner om nästa steg
+*   Se [användarhandboken](/usage) för instruktioner om nästa steg
 
 ![](https://s3-eu-west-1.amazonaws.com/ghost-website-cdn/install-ghost-mac.gif)
 
